@@ -1,0 +1,15 @@
+C:\Users\FIC\Desktop\C#\jogo RPG\bin\Debug\net8.0\jogo RPG.exe
+C:\Users\FIC\Desktop\C#\jogo RPG\bin\Debug\net8.0\jogo RPG.deps.json
+C:\Users\FIC\Desktop\C#\jogo RPG\bin\Debug\net8.0\jogo RPG.runtimeconfig.json
+C:\Users\FIC\Desktop\C#\jogo RPG\bin\Debug\net8.0\jogo RPG.dll
+C:\Users\FIC\Desktop\C#\jogo RPG\bin\Debug\net8.0\jogo RPG.pdb
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\jogo RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\jogo RPG.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\jogo RPG.AssemblyInfo.cs
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\jogo RPG.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\jogo RPG.sourcelink.json
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\jogo RPG.dll
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\refint\jogo RPG.dll
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\jogo RPG.pdb
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\jogo RPG.genruntimeconfig.cache
+C:\Users\FIC\Desktop\C#\jogo RPG\obj\Debug\net8.0\ref\jogo RPG.dll
