@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\FIC\Desktop\Jogo .cs" Link="Jogo .cs" />
+  </ItemGroup>
+
 </Project>
